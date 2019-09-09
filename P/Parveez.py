@@ -1,0 +1,2 @@
+print("Parveez")
+print("Faruk")
